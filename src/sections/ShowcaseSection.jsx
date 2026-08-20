@@ -45,9 +45,9 @@ const ShowcaseSection=() =>{
                         <img src='/images/project1.png' alt='travel sites'/>
                     </div>
                     <div className='text-content'>
-                        <h2>Travel made simple, travel made smart.</h2>
+                        <h2>Privacy-Preserving Federated Learning for Healthcare.</h2>
                         <p className='text-white-50 md:text-xl'>
-                            An app built with React Native , Expo , &TailwindCss for a fast, user-friendly experience.
+                            An app built with Python, Flask, TensorFlow, & Flower for secure, collaborative federated learning.
                         </p>
                     </div>
                 </div>
@@ -57,15 +57,15 @@ const ShowcaseSection=() =>{
                         <div className='image-wrapper bg-[#ffefdb'>
                             <img src='/images/project2.png' alt='portfolio'/>
                         </div>
-                        <h2>Showcasing creativity through code.</h2>
+                        <h2>ElectroMart – E-Commerce Website</h2>
                     </div>
 
-                    {/* <div className='project' ref={project3Ref}>
+                    <div className='project' ref={project3Ref}>
                         <div className='image-wrapper bg-[#ffefeb]'>
                             <img src='/images/project3.png' alt='YC Directory'/>
                         </div>
-                        <h2>YC Directory - A Startup Showcase App</h2> */}
-                    {/* </div> */}
+                        <h2>Fitness App - Spring Microservice. App</h2>
+                    </div> 
                 </div>
             </div>
         </div>
