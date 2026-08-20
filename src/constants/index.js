@@ -22,7 +22,7 @@ const words = [
 
 const counterItems = [
   { value: 10, suffix: "+", label: "Academic Projects" },
-  { value: 100, suffix: "+", label: "Coding Problems Solved" },
+  { value: 300, suffix: "+", label: "Coding Problems Solved" },
   { value: 5, suffix: "+", label: "Technologies Mastered" },
   { value: 3, suffix: "+", label: "Certifications Completed" },
 ];
