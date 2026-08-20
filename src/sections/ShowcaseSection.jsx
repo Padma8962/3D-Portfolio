@@ -64,7 +64,7 @@ const ShowcaseSection=() =>{
                         <div className='image-wrapper bg-[#ffefeb]'>
                             <img src='/images/project3.png' alt='YC Directory'/>
                         </div>
-                        <h2>Fitness App - Spring Microservice. App</h2>
+                        <h2>Fitness App - Spring Microservice App</h2>
                     </div> 
                 </div>
             </div>
