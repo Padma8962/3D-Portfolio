@@ -50,19 +50,7 @@ const TechStack = () => {
               </div>
             </div>
           ))}
-          /* {techStackImgs.map((icon) => (
-            <div key={icon.name} className="card-border tech-card overflow-hidden group xl:rounded-full rounded-lg xl:w-40 xl:h-40">
-              <div className='tech-card-animated-bg'/>
-              <div className='tech-card-content'>
-                <div className='tech-icon-wrapper'>
-                  <img src={icon.imgPath}  alt={icon.name}/>
-                </div>
-                <div className='padding-x w-full'>
-                  <p>{icon.name}</p>
-                </div>
-              </div>
-            </div>
-          ))} */
+          
         </div>
       </div>
     </div>
