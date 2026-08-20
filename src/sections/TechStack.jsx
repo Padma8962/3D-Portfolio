@@ -2,7 +2,7 @@ import { useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useGSAP } from '@gsap/react';
-import { techStackIcons, techStackImgs } from '../constants/index.js';
+import { techStackIcons } from '../constants/index.js';
 import TechIcon from '../components/Models/TechIcon.jsx';
 import TitleHeader from '../components/TitleHeader.jsx';
 
@@ -50,7 +50,7 @@ const TechStack = () => {
               </div>
             </div>
           ))}
-          {techStackImgs.map((icon) => (
+          /* {techStackImgs.map((icon) => (
             <div key={icon.name} className="card-border tech-card overflow-hidden group xl:rounded-full rounded-lg xl:w-40 xl:h-40">
               <div className='tech-card-animated-bg'/>
               <div className='tech-card-content'>
@@ -62,7 +62,7 @@ const TechStack = () => {
                 </div>
               </div>
             </div>
-          ))}
+          ))} */
         </div>
       </div>
     </div>
